@@ -4,6 +4,8 @@ This repository contains the code for the TPAMI 2026 paper:
 
 **Interactive Personalized Clustering: Navigating Beyond Rigid Criteria and Sample Ambiguity**
 
+![Problem](problem.png)
+
 ## Environment
 
 The code was tested with the following environment:
@@ -25,6 +27,8 @@ The code was tested with the following environment:
 All datasets used in this project are publicly available.
 
 For datasets that require our additional annotations, the corresponding annotation labels are provided in the `dataset` folder.
+
+![Method](method.png)
 
 ## Usage
 
