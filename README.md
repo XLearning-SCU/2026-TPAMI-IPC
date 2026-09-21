@@ -5,7 +5,6 @@ This repository contains the code for the TPAMI 2026 paper:
 **Interactive Personalized Clustering: Navigating Beyond Rigid Criteria and Sample Ambiguity**
 
 <img src="problem.png" width="70%">
-![Problem](problem.png)
 
 ## Environment
 
